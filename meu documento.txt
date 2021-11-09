@@ -6,3 +6,4 @@ Interação com os usuários.
 =======
 Atividade 2
 >>>>>>> master
+nova
