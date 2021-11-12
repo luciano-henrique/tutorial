@@ -1,3 +1,4 @@
 usuário 
 senha
 idade
+sexo
